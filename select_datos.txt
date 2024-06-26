@@ -1,0 +1,26 @@
+ 2017  1 1 0457 35.1 L  18.086 -70.803 20.7  DOM  5 0.5 2.0LDOM 3.2CDOM        1
+                sec                    dep          rms  
+ GAP=307        1.28       6.9     9.5 26.2  0.2725E+01 -0.1521E+03 -0.6699E+02E
+                                       edep   
+ ACTION:UP  17-01-01 11:07 OP:AMMR STATUS:               ID:20170101045700     I
+ OLDACT:ARG 17-01-01 10:40 OP:nr   STATUS:               ID:20170101045700     3
+ 2017-01-01-0457-00S.MAN___096                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ PODR BZ EPg    C  457 43.68   49                        109   -0.1910 51.4 280 
+ PODR BE ESg    C  457 50.71                             109    0.3310 51.4 280 
+ PODR BE  IAML     457 53.19       197.4 0.25                          51.4 280 
+ NEDR BZ EPg    C  457 48.38   51                         99   -0.1910 84.0 302 
+ NEDR BE ESg    C  457 57.51                              99   -1.0610 84.0 302 
+ NEDR BE  IAML     458  2.97        43.7 0.35                          84.0 302 
+ SDDR BZ EPg    C  457 52.63   55                         96   -0.1010  112 333 
+ SDDR BE ESg    D  458  6.39                              96    0.5910  112 333 
+ SDDR BE  IAML     458 18.54        15.3 0.70                           112 333 
+ JIDR BZ EPg    C  457 53.99   59                         96    0.0310  120 292 
+ JIDR BE ESg       458  8.64                              96    0.6910  120 292 
+ JIDR BE  IAML     458 13.72        36.8 0.75                           120 292 
+ REDR BZ EPg    C  458  0.66   66                         94    0.2510  162 324 
+ REDR BE ESg    C  458 18.82                              94   -0.3410  162 324 
+ REDR BE  IAML     458 21.28        46.1 0.25                           162 324 
+ 
+ 2017-01-01 04:57:35 18.086 -70.803  20.7  26.2 0.5 2.0 3.2     307
+ fecha      hora     lat    lon      dep   edep rms ml  mc  ml  gap

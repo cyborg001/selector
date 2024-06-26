@@ -1,0 +1,319 @@
+fecha      hora     lat    lon      dep    edep  gap  rms  ml   mc   mw  comentario
+2017-01-01 04:57:35 18.086 -70.803  20.7   26.2  307  0.5  2.0  3.2  --- 30.5Km al Este de Los Negros, Mar Caribe.
+2017-01-01 10:23:20 19.521 -69.529  31.1   53.0  220  0.5  2.1  3.2  --- 23.0Km al Norte de Las Terrenas, Oceano Atlantico.
+2017-01-01 21:37:34 18.257 -67.671  23.0   44.1  196  0.7  2.9  4.0  --- 85.2Km al Este de Punta Cana, Canal de la Mona.
+2017-01-02 10:38:31 18.683 -70.315  12.1   15.2  140  0.7  2.3  3.5  2.8 14.9Km al Oeste de Villa Altagracia, San Cristobal.
+2017-01-02 22:38:41 18.028 -71.517  30.9    4.3  266  0.2  1.7  3.2  2.6 18.7Km al NE de Cabo Rojo, Pedernales.
+2017-01-04 21:24:27 19.094 -73.409  21.7  109.9  179  0.8  4.1  4.0  --- 180.0Km al Oeste de Pedro Santana, Golfo de Gonaive.
+2017-01-05 17:48:57 18.840 -68.080  29.5   44.4  178  0.5  2.7  3.6  3.1 103.2Km al Este de Miches, Oceano Atlantico.
+2017-01-06 20:22:37 18.127 -68.788 115.2   20.0  205  0.7  2.2  3.4  2.7 6.0Km al Oeste de Mano Juan Isla Saona, Mar Caribe.
+2017-01-06 22:48:45 19.943 -71.787   0.1  885.0  300  0.5  1.5  2.7  1.9 18.0Km al ONO de San Fernando de Montecristi, Oceano Atlantico.
+2017-01-07 08:07:04 19.086 -68.758  19.6   21.9  174  1.1  2.7  3.6  3.2 32.7Km al ENE de Miches, Oceano Atlantico.
+2017-01-07 08:57:52 18.967 -67.695  12.1  999.9  199  0.5  3.2  3.6  3.1 142.4Km al Este de Miches, Oceano Atlantico.
+2017-01-08 03:14:09 18.614 -71.530  17.3   15.7   89  0.9  ---  3.0  --- 12.0Km al NNE de Los Rios, Bahoruco.
+2017-01-11 14:11:55 20.106 -70.804  12.1   43.2  130  1.0  3.0  3.6  3.1 29.0Km al NE de Luperon, Oceano Atlantico.
+2017-01-12 07:20:43 19.439 -69.576 106.7   12.0  202  0.6  2.7  3.3  --- 14.3Km al NNO de Las Terrenas, Oceano Atlantico.
+2017-01-12 22:57:13 19.731 -70.083  21.7   89.3  234  1.0  2.6  3.5  --- 21.1Km al ONO de Cabrera, Oceano Atlantico.
+2017-01-15 04:22:18 19.455 -68.827   8.9   31.0  246  0.3  2.3  2.9  --- 43.6Km al ENE de Las Galeras, Oceano Atlantico.
+2017-01-16 09:07:10 18.313 -68.026  78.9   17.7  212  0.9  2.8  3.8  3.3 49.9Km al Este de Punta Cana, Canal de la Mona.
+2017-01-17 07:17:39 18.390 -68.819 189.5    9.0  162  0.4  2.7  3.6  2.7 15.8Km al OSO de San Rafael del Yuma, La Altagracia.
+2017-01-19 02:45:48 18.999 -68.002  11.2  125.3  209  0.8  2.2  3.2  --- 110.1Km al Este de Miches, Oceano Atlantico.
+2017-01-23 04:09:02 18.122 -68.532 150.3   25.5  181  1.0  3.8  4.0  --- 21.1Km al Este de Mano Juan Isla Saona, Mar Caribe.
+2017-01-23 16:54:57 19.233 -71.493  63.6   13.8  142  0.7  2.6  3.3  --- 25.6Km al ENE de Pedro Santana, Elias Pina.
+2017-01-24 06:14:14 18.457 -67.303  64.0   17.0  151  0.8  3.2  3.5  --- 116.6Km al Este de Punta Cana, Canal de la Mona.
+2017-01-24 10:52:49 18.863 -72.681  16.3  111.3  312  0.8  2.3  3.1  --- 107.0Km al OSO de Pedro Santana, Golfo de Gonaive.
+2017-01-25 06:42:23 19.638 -70.725  10.5   20.5  128  0.9  3.0  3.6  --- 12.2Km al Este de Altamira, Puerto Plata.
+2017-01-25 21:12:41 19.225 -69.799  30.5   38.6  183  0.9  2.3  3.3  --- 13.8Km al Este de El Factor, Maria Trinidad Sanchez.
+2017-01-26 02:34:14 18.653 -71.715  23.0   14.1  154  0.8  2.1  3.3  2.8 8.9Km al NNE de La Descubierta, Independencia.
+2017-01-26 09:41:13 18.168 -68.612  31.0   29.0  182  0.7  3.8  3.5  4.1 13.3Km al ENE de Mano Juan Isla Saona, Mar Caribe.
+2017-01-26 22:14:38 18.713 -70.346 109.6   20.3  105  0.9  2.4  3.4  --- 18.7Km al ONO de Villa Altagracia, San Cristobal.
+2017-01-27 21:45:23 19.329 -68.135  11.4  174.3  231  0.6  2.5  3.7  --- 103.4Km al ENE de Miches, Oceano Atlantico.
+2017-01-27 22:34:30 19.247 -69.792  23.0   12.1  104  0.8  2.6  3.5  --- 12.7Km al Este de El Factor, Maria Trinidad Sanchez.
+2017-01-28 07:05:02 19.227 -68.107  11.6   92.0  209  0.7  2.8  3.7  --- 102.6Km al ENE de Miches, Oceano Atlantico.
+2017-01-29 00:55:29 19.099 -67.964  95.7   37.9  208  0.5  2.3  3.3  2.7 114.8Km al Este de Miches, Oceano Atlantico.
+2017-01-29 01:14:34 19.367 -69.260  69.7   11.4  200  0.8  3.4  3.4  --- 11.0Km al NO de Las Galeras, Oceano Atlantico.
+2017-01-29 19:37:57 18.567 -68.810  28.1   10.4  178  0.9  2.2  3.5  --- 11.0Km al OSO de Higuey, La Altagracia.
+2017-01-30 17:39:42 18.437 -70.092  66.2    7.4  174  0.6  2.9  3.4  --- 2.6Km al NE de San Cristobal, San Cristobal.
+2017-01-30 18:42:46 19.474 -70.543  90.4    8.0  254  0.1  2.1  3.3  --- 9.2Km al NNO de Moca, Espaillat.
+2017-01-30 18:43:57 18.580 -68.631  78.4    8.1  163  0.6  2.3  3.3  --- 9.6Km al Este de Higuey, La Altagracia.
+2017-01-31 03:47:52 19.377 -73.698  49.7  407.2  131  0.9  4.4  4.5  --- 207.3Km al Oeste de Pepillo Salcedo, Golfo de Gonaive.
+2017-01-31 22:13:35 18.372 -68.750 117.9   17.6  178  0.8  2.5  3.6  --- 10.2Km al SO de San Rafael del Yuma, La Altagracia.
+2017-02-01 20:05:31 18.192 -70.708  28.3   19.9  189  0.8  2.9  3.3  --- 17.3Km al SO de Palmar de Ocoa, Mar Caribe.
+2017-02-02 07:03:29 18.337 -69.516  23.0   92.7  214  0.4  2.1  3.2  --- 11.3Km al SO de Guayacanes, Mar Caribe.
+2017-02-02 16:14:46 18.128 -68.203 129.9   15.3  175  0.6  2.9  3.6  --- 55.2Km al Este de Punta Cana, Canal de la Mona.
+2017-02-03 03:18:07 19.404 -69.223  71.7   10.4  207  0.8  3.3  3.1  --- 13.5Km al Norte de Las Galeras, Oceano Atlantico.
+2017-02-03 07:35:04 19.090 -69.397  22.7   12.5  113  0.4  1.7  2.8  --- 3.7Km al NNO de Sabana de la Mar, Hato Mayor.
+2017-02-03 07:57:59 18.481 -70.327  31.1    5.8  113  0.5  2.2  3.1  --- 22.4Km al Norte de Bani, Peravia.
+2017-02-03 12:47:56 19.355 -68.855  23.0   19.2  298  0.6  1.6  3.2  --- 37.2Km al ENE de Las Galeras, Oceano Atlantico.
+2017-02-07 04:15:24 19.273 -70.515   1.1  188.0  224  0.7  2.2  3.1  --- 6.0Km al NNE de Concepcion de La Vega, La Vega.
+2017-02-07 04:52:43 18.830 -70.389 113.0   15.3   93  0.7  2.4  2.9  --- 11.7Km al Este de Bonao, Monseñor Nouel.
+2017-02-07 16:19:20 18.045 -67.949 107.6   21.2  187  0.7  2.8  3.3  --- 76.9Km al Este de Punta Cana, Canal de la Mona.
+2017-02-08 00:41:19 18.922 -73.239  11.6  118.1  303  0.5  2.7  3.4  --- Distante.
+2017-02-08 08:36:27 18.221 -67.482  19.7   25.5  168  0.9  2.3  3.2  --- 105.1Km al Este de Punta Cana, Canal de la Mona.
+2017-02-09 17:04:43 17.961 -69.368  15.0    0.0  283  0.0  2.0  3.3  --- 52.1Km al Este de Guayacanes, Mar Caribe.
+2017-02-09 19:56:07 20.159 -70.694  11.9   12.6  144  0.9  2.5  3.4  --- 40.8Km al NE de Luperon, Oceano Atlantico.
+2017-02-09 23:35:25 19.916 -72.550  15.0  525.2  306  0.9  2.5  3.2  --- 94.8Km al Oeste de San Fernando de Montecristi, Oceano Atlantico.
+2017-02-11 19:15:45 19.755 -70.844  22.9   13.1  170  0.9  2.7  3.2  3.2 1.4Km al Oeste de Imbert, Puerto Plata.
+2017-02-11 21:07:12 18.707 -71.686  22.8   22.5  161  1.0  2.2  3.1  2.9 1.4Km al Este de Hondo Valle, Elias Pina.
+2017-02-13 15:46:09 18.483 -69.059 131.2   17.8  169  1.0  2.4  3.6  2.7 10.6Km al ONO de La Romana, La Romana.
+2017-02-14 19:10:50 18.829 -70.141 114.8   13.5   68  0.7  2.9  3.1  --- 13.7Km al ONO de Yamasa, Monte Plata.
+2017-02-15 02:05:53 18.456 -70.313  23.1    8.2  129  0.7  2.1  2.8  2.4 19.7Km al Norte de Bani, Peravia.
+2017-02-15 07:11:48 19.317 -69.069  13.6    2.8  258  0.2  1.7  3.0  1.8 14.4Km al ENE de Las Galeras, Oceano Atlantico.
+2017-02-15 10:04:18 18.810 -69.427 109.9   11.2  138  0.5  2.2  3.1  --- 18.7Km al ONO de Hato Mayor, Hato Mayor.
+2017-02-15 13:45:02 18.761 -69.028 139.8    8.9  149  0.4  2.4  3.1  --- 1.2Km al Este de El Seibo, El Seibo.
+2017-02-15 16:21:53 18.254 -69.012  22.8   55.6  210  0.3  2.0  3.2  --- 11.2Km al Este de Isla Catalina, Mar Caribe.
+2017-02-15 17:45:02 18.698 -69.514 140.3    8.1  152  0.4  3.0  3.4  --- 8.5Km al NNO de Los Llanos, San Pedro de Macoris.
+2017-02-15 21:08:01 17.953 -68.391  59.6   18.8  241  0.5  2.6  3.3  --- 40.9Km al Este de Mano Juan Isla Saona, Mar Caribe.
+2017-02-16 12:51:56 18.725 -69.412 106.7    7.3   82  0.7  4.5  4.1  --- 16.9Km al OSO de Hato Mayor, Hato Mayor.
+2017-02-16 17:26:28 19.041 -70.360   0.0  156.7  126  0.7  2.6  3.2  2.5 11.0Km al SO de Fantino, Sanchez Ramirez.
+2017-02-17 01:20:07 18.711 -69.396  75.6   15.8  142  0.8  2.8  3.6  --- 15.8Km al OSO de Hato Mayor, Hato Mayor.
+2017-02-17 08:21:41 18.282 -68.416  78.1   14.2  180  0.7  1.9  3.2  --- 34.1Km al Este de Punta Cana, Mar Caribe.
+2017-02-17 12:25:42 18.022 -68.429  31.1   27.6  195  0.9  3.3  3.5  3.3 34.1Km al Este de Mano Juan Isla Saona, Mar Caribe.
+2017-02-17 17:20:15 19.085 -70.234  15.0  202.3  230  0.4  1.5  2.9  --- 7.4Km al OSO de La Mata, Sanchez Ramirez.
+2017-02-18 01:38:45 18.925 -67.884  22.9   84.4  195  0.9  ---  3.0  --- 122.7Km al Este de Miches, Oceano Atlantico.
+2017-02-19 07:33:23 18.319 -70.366  18.1    9.5  176  0.9  2.9  3.5  3.2 5.5Km al NO de Bani, Peravia.
+2017-02-20 02:34:36 19.035 -68.354  13.8  382.2  186  0.6  ---  3.5  --- 73.3Km al Este de Miches, Oceano Atlantico.
+2017-02-20 03:45:52 18.577 -68.799 102.4   11.6  154  0.8  2.6  3.5  --- 9.5Km al OSO de Higuey, La Altagracia.
+2017-02-20 07:12:36 18.244 -67.385  28.3    5.1  279  0.2  2.6  2.6  --- 113.7Km al Este de Punta Cana, Canal de la Mona.
+2017-02-20 09:12:05 18.464 -68.897  90.5   26.4  163  0.7  2.0  3.0  --- 9.2Km al ENE de La Romana, La Romana.
+2017-02-20 14:28:36 18.548 -68.835 102.6   13.1  166  0.8  2.8  3.6  2.9 14.3Km al OSO de Higuey, La Altagracia.
+2017-02-20 16:44:07 18.981 -70.482  58.8    4.4  242  0.0  1.9  2.6  --- 9.3Km al ONO de Bonao, Monseñor Nouel.
+2017-02-20 21:26:55 19.473 -70.441  22.2   22.7   66  0.9  3.1  3.4  --- 12.6Km al NE de Moca, Espaillat.
+2017-02-20 21:38:42 19.432 -70.385   1.2  202.2  110  0.7  1.9  3.0  --- 7.0Km al NNE de Salcedo, Hermanas Mirabal.
+2017-02-20 21:46:15 19.430 -70.452  22.9   19.7  142  0.8  2.4  3.1  --- 8.8Km al ENE de Moca, Espaillat.
+2017-02-21 00:53:30 18.655 -71.904  12.1   21.6  170  0.7  1.9  3.0  --- 18.8Km al NNO de Jimani, Region Haiti.
+2017-02-21 06:55:32 18.234 -68.877 205.8   20.7  182  0.8  3.1  3.6  --- 19.2Km al Este de Isla Catalina, Mar Caribe.
+2017-02-22 08:48:28 17.934 -69.848  23.5  218.2  192  0.7  2.5  3.4  --- 48.2Km al Este de Sabana Grande de Palenque, Mar Caribe.
+2017-02-22 15:43:16 19.013 -67.205  31.0   19.4  222  0.5  3.0  3.3  --- 193.9Km al Este de Miches, Oceano Atlantico.
+2017-02-24 13:29:45 18.028 -70.749  31.0   17.8  226  0.6  2.3  3.5  2.7 34.3Km al SSO de Palmar de Ocoa, Mar Caribe.
+2017-02-24 13:57:47 18.538 -69.497  82.0   36.9  188  0.7  1.8  2.8  --- 9.5Km al Este de Los Llanos, San Pedro de Macoris.
+2017-02-24 15:34:01 17.483 -68.978  32.7  626.5  214  0.5  2.9  3.6  --- 76.4Km al SSO de Mano Juan Isla Saona, Mar Caribe.
+2017-02-24 20:48:27 18.264 -71.422  48.6    7.0  243  0.2  1.8  2.8  --- 10.6Km al Este de Mella, Independencia.
+2017-02-25 03:06:09 19.168 -68.163  31.2  104.0  284  0.2  ---  3.2  --- 95.4Km al ENE de Miches, Oceano Atlantico.
+2017-02-25 11:56:36 18.043 -68.045 189.0    9.3  222  0.4  ---  3.3  --- 71.2Km al Este de Punta Cana, Canal de la Mona.
+2017-02-26 07:18:00 19.781 -70.572  12.2   21.9  116  0.9  2.5  3.2  --- 12.2Km al Este de Puerto Plata, Oceano Atlantico.
+2017-02-26 09:56:45 18.805 -69.357  80.2   11.7  128  0.9  2.6  3.3  --- 11.6Km al ONO de Hato Mayor, Hato Mayor.
+2017-02-26 21:27:47 18.359 -70.325  12.1    8.3  183  0.8  ---  2.8  --- 8.8Km al Norte de Bani, Peravia.
+2017-02-27 01:04:52 18.884 -70.012  31.0   17.5  116  0.8  4.6  4.1  4.2 12.5Km al Norte de Yamasa, Monte Plata.
+2017-02-27 06:13:11 20.074 -70.787  11.7   24.3  136  0.8  2.4  3.2  --- 27.3Km al NE de Luperon, Oceano Atlantico.
+2017-02-27 17:55:40 18.317 -70.270  58.1    6.6  201  0.4  2.1  2.7  --- 7.9Km al ENE de Bani, Peravia.
+2017-02-27 20:56:51 18.488 -71.196   2.1  131.5  127  0.6  1.9  2.9  --- 10.3Km al Norte de Tamayo, Bahoruco.
+2017-02-28 00:10:17 19.466 -70.068  25.3   16.7  148  0.9  2.2  3.1  --- 19.7Km al Este de Rio San Juan, Maria Trinidad Sanchez.
+2017-02-28 03:20:15 20.025 -70.861  12.1   18.4  137  0.8  2.4  3.3  2.8 18.2Km al NE de Luperon, Oceano Atlantico.
+2017-02-28 18:03:35 19.036 -70.011  18.4   83.8  164  0.8  2.2  3.0  --- 5.0Km al NO de Cevicos, Sanchez Ramirez.
+2017-03-01 19:19:21 19.289 -69.854  11.9   55.2  192  0.7  2.4  3.2  --- 4.7Km al Este de El Factor, Maria Trinidad Sanchez.
+2017-03-02 01:13:50 18.138 -71.326  62.4    5.0  246  0.2  2.0  2.7  --- 7.2Km al NO de Polo, Barahona.
+2017-03-02 12:40:27 18.264 -69.121  78.0   37.4  192  0.6  2.7  3.4  --- 15.6Km al SO de Isla Catalina, Mar Caribe.
+2017-03-02 13:51:13 18.665 -69.544 101.7   11.5  154  0.6  2.6  3.4  --- 7.0Km al NO de Los Llanos, San Pedro de Macoris.
+2017-03-02 16:52:44 18.516 -70.789  16.2   60.8  279  0.4  2.0  3.0  --- 7.5Km al SSO de Peralta, Azua.
+2017-03-03 12:13:22 18.669 -69.328 102.9   16.2  153  0.8  2.4  3.1  3.5 12.9Km al SO de Hato Mayor, Hato Mayor.
+2017-03-03 21:00:18 19.316 -70.129  15.0   48.4  187  0.7  2.1  3.2  --- 13.2Km al Este de San Francisco de Macoris, Duarte.
+2017-03-04 15:05:04 18.811 -67.663  23.0   61.5  187  0.8  2.5  3.6  --- 81.5Km al ENE de Punta Cana, Canal de la Mona.
+2017-03-04 17:13:41 17.542 -72.743  15.0  770.0  314  0.8  3.2  3.6  --- 119.1Km al OSO de Pedernales, Mar Caribe.
+2017-03-05 16:04:58 19.567 -68.650 148.9   25.6  227  0.8  2.8  3.6  --- 65.8Km al ENE de Las Galeras, Oceano Atlantico.
+2017-03-06 07:28:31 18.211 -70.382  16.9    7.1  191  0.6  2.2  2.8  --- 5.3Km al Este de Matanzas, Mar Caribe.
+2017-03-06 10:01:12 19.223 -70.196  25.8   41.3  170  0.9  2.4  2.9  --- 3.5Km al NNE de Las Guaranas, Duarte.
+2017-03-06 10:07:15 19.129 -70.181  11.4  238.6  158  0.8  2.4  3.4  --- 3.6Km al NNO de La Mata, Sanchez Ramirez.
+2017-03-08 00:23:28 20.028 -69.998  31.1   39.8  270  0.5  2.8  2.8  --- 44.2Km al NNO de Cabrera, Oceano Atlantico.
+2017-03-08 13:06:32 19.615 -70.524  21.0   13.4  100  0.8  2.3  3.3  3.0 15.2Km al Este de Sosua, Puerto Plata.
+2017-03-08 18:19:46 18.143 -68.861  96.5   28.0  195  0.6  2.5  3.3  --- 13.8Km al Oeste de Mano Juan Isla Saona, Mar Caribe.
+2017-03-08 21:13:38 18.395 -68.864 112.4   19.1  162  0.8  2.6  3.4  --- 20.3Km al Oeste de San Rafael del Yuma, La Altagracia.
+2017-03-09 03:15:52 18.357 -70.639  17.4   25.6  170  0.7  2.5  3.4  2.9 9.1Km al NO de Palmar de Ocoa, Mar Caribe.
+2017-03-09 04:57:11 18.186 -69.260 135.9   17.4  255  0.5  2.6  3.4  2.4 29.7Km al Este de San Pedro de Macoris, Mar Caribe.
+2017-03-09 08:31:22 19.639 -69.550  17.4   23.4  221  0.6  2.1  3.1  1.8 36.1Km al Norte de Las Terrenas, Oceano Atlantico.
+2017-03-09 14:54:20 18.661 -71.614  25.4   10.3  146  0.6  2.1  2.8  3.1 13.0Km al Norte de Postrer Rio, Independencia.
+2017-03-10 07:29:28 17.554 -68.952  19.0  239.7  231  0.6  2.2  3.5  --- 68.1Km al SSO de Mano Juan Isla Saona, Mar Caribe.
+2017-03-10 10:46:33 18.822 -69.347 116.4   15.3  126  0.8  3.2  3.5  3.3 11.6Km al ONO de Hato Mayor, Hato Mayor.
+2017-03-10 15:16:21 18.640 -69.695 135.8   12.9  134  0.7  3.0  3.5  --- 9.3Km al Norte de San Antonio de Guerra, Santo Domingo.
+2017-03-10 15:18:50 18.928 -68.358  31.0   52.4  196  0.5  2.1  3.2  --- 72.9Km al Este de Miches, Oceano Atlantico.
+2017-03-10 21:52:44 18.495 -69.055 106.8   18.4  185  0.9  2.4  3.3  --- 11.1Km al NO de La Romana, La Romana.
+2017-03-11 19:34:13 17.630 -68.110  23.1  764.0  234  0.7  2.6  3.4  --- 86.0Km al Este de Mano Juan Isla Saona, Mar Caribe.
+2017-03-12 18:15:32 18.642 -72.179  22.6   11.1  158  0.5  2.5  3.3  --- 38.3Km al ONO de Jimani, Region Haiti.
+2017-03-13 22:52:55 18.398 -70.971  86.1   10.5  156  0.3  1.6  3.0  --- 14.6Km al ONO de Los Negros, Azua.
+2017-03-14 03:16:45 18.717 -70.349  89.1   15.7  144  0.8  2.7  3.3  --- 19.1Km al ONO de Villa Altagracia, San Cristobal.
+2017-03-14 08:58:31 19.993 -71.859   0.1  999.9  277  0.6  2.4  3.2  --- 27.4Km al NO de San Fernando de Montecristi, Oceano Atlantico.
+2017-03-14 17:11:19 18.456 -70.136  15.0  233.4  234  0.6  1.3  3.1  --- 5.1Km al NO de San Cristobal, San Cristobal.
+2017-03-14 23:26:58 18.706 -69.420  97.5   13.0  142  0.8  3.1  3.4  --- 18.4Km al OSO de Hato Mayor, Hato Mayor.
+2017-03-15 02:07:23 18.505 -68.646 133.9   12.4  168  0.7  2.5  3.2  --- 8.9Km al NNE de San Rafael del Yuma, La Altagracia.
+2017-03-15 15:23:07 18.583 -68.864 133.7    9.6  152  0.8  3.2  3.6  --- 15.8Km al Oeste de Higuey, La Altagracia.
+2017-03-15 19:05:54 18.677 -68.950 153.1    9.5  161  0.4  2.6  3.1  --- 13.5Km al Este de El Seibo, El Seibo.
+2017-03-15 19:05:54 18.656 -68.919 150.3   10.7  150  0.6  2.5  3.4  --- 21.9Km al ONO de Higuey, La Altagracia.
+2017-03-16 00:54:57 20.153 -70.402  20.6   29.4  153  0.8  4.4  4.5  --- 44.7Km al Norte de Cabarete, Oceano Atlantico.
+2017-03-16 02:09:37 19.977 -70.395  21.3   21.9  227  0.8  2.6  3.5  3.1 25.2Km al Norte de Cabarete, Oceano Atlantico.
+2017-03-16 02:34:28 20.212 -70.424  20.8   21.8  250  0.5  2.7  3.4  3.3 51.3Km al Norte de Cabarete, Oceano Atlantico.
+2017-03-16 02:57:23 20.226 -70.403  22.7   26.6  157  0.8  3.1  3.8  3.5 52.8Km al Norte de Cabarete, Oceano Atlantico.
+2017-03-16 02:55:12 18.345 -70.677  47.3   14.1  185  0.6  1.9  3.0  2.3 11.3Km al ONO de Palmar de Ocoa, Mar Caribe.
+2017-03-16 03:03:27 20.105 -70.466  12.3  375.5  148  0.6  2.5  3.5  3.1 39.7Km al Norte de Cabarete, Oceano Atlantico.
+2017-03-16 03:09:58 20.288 -70.379  31.1   30.9  262  0.9  2.3  3.5  3.5 59.8Km al Norte de Cabarete, Oceano Atlantico.
+2017-03-16 03:44:08 19.940 -70.266  31.0    8.9  157  0.5  2.4  3.5  3.0 26.1Km al NE de Cabarete, Oceano Atlantico.
+2017-03-16 05:21:24 20.048 -70.313  23.0   32.5  159  0.9  2.6  3.3  --- 34.7Km al NNE de Cabarete, Oceano Atlantico.
+2017-03-16 07:04:20 20.261 -70.358  20.1   30.5  242  0.7  2.2  3.2  --- 57.0Km al Norte de Cabarete, Oceano Atlantico.
+2017-03-16 08:27:05 20.166 -70.364  22.4   25.2  161  0.9  2.9  3.6  --- 46.4Km al Norte de Cabarete, Oceano Atlantico.
+2017-03-16 09:39:17 20.089 -70.333  18.8   37.1  160  0.9  2.3  3.4  --- 38.5Km al NNE de Cabarete, Oceano Atlantico.
+2017-03-16 13:05:35 20.195 -70.315  21.0   27.9  238  0.8  2.4  3.6  3.2 50.4Km al NNE de Cabarete, Oceano Atlantico.
+2017-03-16 18:25:42 19.030 -68.974  18.9    2.6  170  0.2  2.0  3.1  --- 9.5Km al ENE de Miches, Oceano Atlantico.
+2017-03-16 21:06:27 20.057 -70.410  10.2   82.6  154  1.1  2.2  3.3  --- 34.0Km al Norte de Cabarete, Oceano Atlantico.
+2017-03-16 23:20:03 17.545 -70.079  55.4   81.4  239  0.7  2.3  3.4  --- 80.0Km al Este de Sabana Grande de Palenque, Mar Caribe.
+2017-03-17 04:29:37 20.254 -70.372  22.5   38.1  254  0.8  2.5  3.5  3.3 56.1Km al Norte de Cabarete, Oceano Atlantico.
+2017-03-17 11:06:26 18.049 -68.707 155.5   17.6  249  0.4  2.6  3.2  --- 9.2Km al Este de Mano Juan Isla Saona, Mar Caribe.
+2017-03-17 13:17:26 18.136 -69.523  66.7   17.2  305  0.1  2.3  2.9  --- 32.5Km al Este de Guayacanes, Mar Caribe.
+2017-03-17 14:04:01 20.225 -70.408  15.0  564.8  275  0.8  ---  3.7  --- 52.7Km al Norte de Cabarete, Oceano Atlantico.
+2017-03-19 12:48:25 18.493 -69.087 133.9   21.8  173  0.9  2.6  3.4  --- 13.7Km al ONO de La Romana, La Romana.
+2017-03-20 00:38:56 18.067 -68.590  78.6   20.9  192  0.6  2.2  3.3  --- 16.4Km al Este de Mano Juan Isla Saona, Mar Caribe.
+2017-03-20 02:18:44 18.594 -71.405  12.1   13.1  110  0.7  2.6  3.2  --- 11.6Km al Norte de Neiba, Bahoruco.
+2017-03-20 03:29:25 18.573 -71.407  20.4   11.7   83  0.9  2.9  3.2  --- 9.3Km al Norte de Neiba, Bahoruco.
+2017-03-20 04:04:07 18.556 -71.375  12.5   11.7  103  0.7  2.4  3.1  --- 6.8Km al NO de Galvan, Bahoruco.
+2017-03-20 04:53:49 18.532 -69.169 124.8   10.6  183  0.5  2.1  3.3  2.3 1.7Km al Este de Ramon Santana, San Pedro de Macoris.
+2017-03-20 05:25:41 18.816 -70.422  96.7   16.0  160  0.7  1.9  2.9  2.1 13.2Km al Este de Bonao, Monseñor Nouel.
+2017-03-20 19:12:37 18.652 -68.986 148.0    4.5  169  0.1  2.1  3.2  --- 13.6Km al Este de El Seibo, El Seibo.
+2017-03-20 20:02:43 20.061 -70.276  11.6   90.7  162  0.9  2.4  3.3  --- 37.4Km al NNE de Cabarete, Oceano Atlantico.
+2017-03-21 00:01:36 18.301 -71.173  31.0    9.7  135  0.6  2.6  3.2  --- 1.7Km al ENE de El Penon, Barahona.
+2017-03-21 08:51:52 18.457 -68.789 108.2   12.9  158  0.8  2.5  3.6  --- 12.4Km al ONO de San Rafael del Yuma, La Altagracia.
+2017-03-21 13:25:00 17.945 -68.454  22.9   65.0  188  0.6  2.9  3.5  --- 35.7Km al Este de Mano Juan Isla Saona, Mar Caribe.
+2017-03-21 14:07:27 18.770 -69.674  94.7   14.6  116  0.9  2.7  3.4  --- 4.2Km al ONO de Bayaguana, Monte Plata.
+2017-03-21 14:42:50 18.247 -71.877  12.1   24.7  267  0.7  1.9  3.1  --- 27.0Km al NNO de Pedernales, Region Haiti.
+2017-03-21 18:00:52 18.769 -69.476  98.6   14.5  130  0.7  2.4  3.1  --- 16.3Km al Norte de Los Llanos, San Pedro de Macoris.
+2017-03-21 23:13:51 18.599 -69.204 107.9   17.6  162  0.7  2.4  3.2  --- 6.8Km al NNO de Ramon Santana, San Pedro de Macoris.
+2017-03-22 03:42:25 18.593 -68.964 109.1   20.2  177  0.9  2.2  3.4  --- 18.3Km al Norte de La Romana, La Romana.
+2017-03-22 05:39:27 20.006 -70.506  12.3   50.5  222  0.9  ---  3.5  --- 29.9Km al NNO de Cabarete, Oceano Atlantico.
+2017-03-22 06:58:48 19.673 -70.660  22.9   12.3  124  0.9  2.1  3.4  2.5 13.0Km al Este de Puerto Plata, Puerto Plata.
+2017-03-22 14:52:02 19.419 -68.991  22.8   15.5  231  0.7  2.2  3.3  --- 26.7Km al ENE de Las Galeras, Oceano Atlantico.
+2017-03-23 16:05:23 18.671 -68.802 103.1   12.3  138  0.8  2.3  3.3  --- 11.2Km al NO de Higuey, La Altagracia.
+2017-03-23 16:25:09 20.033 -70.407  22.7  182.6  154  0.9  2.4  3.5  --- 31.4Km al Norte de Cabarete, Oceano Atlantico.
+2017-03-23 21:07:56 19.247 -68.957  12.0   36.5  209  0.7  2.7  3.4  --- 26.0Km al Este de Las Galeras, Oceano Atlantico.
+2017-03-23 23:21:02 20.432 -70.202  23.5  305.7  299  0.4  2.9  3.4  --- 78.9Km al NNE de Cabarete, Oceano Atlantico.
+2017-03-24 03:31:31 20.107 -70.394  22.8  553.2  225  0.8  3.4  3.8  --- 39.6Km al Norte de Cabarete, Oceano Atlantico.
+2017-03-24 23:10:23 20.134 -70.653  15.0  432.2  197  0.7  2.5  3.1  --- 38.8Km al Norte de Puerto Plata, Oceano Atlantico.
+2017-03-26 17:35:05 18.900 -69.905  63.7   18.6  105  1.2  ---  3.2  --- 12.8Km al OSO de Sabana Grande de Boya, Monte Plata.
+2017-03-27 02:47:12 17.502 -69.807  33.2  624.1  243  0.8  2.3  3.5  --- 91.8Km al Este de Sabana Grande de Palenque, Mar Caribe.
+2017-03-27 06:53:48 19.219 -69.285  28.6   14.8  273  0.4  1.3  2.9  --- 5.4Km al ENE de Samana, Samana.
+2017-03-27 11:16:43 17.552 -68.758 113.3   39.8  273  0.8  2.3  3.4  --- 64.2Km al Este de Mano Juan Isla Saona, Mar Caribe.
+2017-03-27 17:24:28 18.331 -70.282  20.2   25.1  199  0.4  1.7  3.1  --- 7.9Km al NE de Bani, Peravia.
+2017-03-28 07:49:23 19.006 -67.171  15.0  999.9  254  0.7  1.9  3.0  --- 197.5Km al Este de Miches, Oceano Atlantico.
+2017-03-28 17:14:47 20.066 -70.746  12.0   25.7  138  0.8  3.0  3.7  --- 29.7Km al NE de Luperon, Oceano Atlantico.
+2017-03-28 17:18:02 20.054 -70.705   2.6   73.3  133  0.4  2.5  3.2  --- 29.8Km al Norte de Puerto Plata, Oceano Atlantico.
+2017-03-28 20:22:40 20.011 -70.705   7.5   27.3  223  0.4  2.3  3.0  --- 25.0Km al Norte de Puerto Plata, Oceano Atlantico.
+2017-03-29 01:02:36 19.059 -69.447  30.9   23.4  154  0.4  1.3  2.8  --- 6.2Km al Oeste de Sabana de la Mar, Hato Mayor.
+2017-03-29 07:19:40 19.102 -69.605  87.2   15.5  159  0.7  2.0  3.3  --- 14.1Km al Este de Sanchez, Bahia de Samana.
+2017-03-29 11:20:58 18.068 -68.642  60.4   12.3  245  .40  2.5  3.3  --- 11.6Km al Este de Mano Juan Isla Saona, Mar Caribe.
+2017-03-30 00:14:27 19.058 -70.495  92.0   11.6  175  0.5  2.2  3.2  --- 16.5Km al NO de Bonao, Monseñor Nouel.
+2017-03-31 02:32:15 18.531 -69.700 101.7    9.3  149  0.6  2.8  3.5  2.9 2.8Km al Este de San Antonio de Guerra, Santo Domingo.
+2017-03-31 03:07:47 18.993 -70.761  80.1   16.7   86  0.9  1.9  3.2  2.8 9.3Km al Norte de Constanza, La Vega.
+2017-03-31 04:15:56 18.940 -70.371  84.3   15.0  107  0.6  2.2  3.0  2.1 4.0Km al Este de Bonao, Monseñor Nouel.
+2017-03-31 07:44:15 18.908 -70.548  81.8   18.2  114  0.8  2.1  2.9  --- 14.9Km al Oeste de Bonao, Monseñor Nouel.
+2017-03-31 13:45:49 18.083 -68.537 114.9    9.9  179  0.4  2.3  3.1  --- 21.1Km al Este de Mano Juan Isla Saona, Mar Caribe.
+2017-03-31 23:18:12 20.081 -70.383  11.7   60.9  157  0.7  2.3  3.5  --- 36.8Km al Norte de Cabarete, Oceano Atlantico.
+2017-04-01 01:03:06 18.994 -69.723 165.8   26.3  181  1.0  2.2  3.5  --- 9.2Km al NE de Sabana Grande de Boya, Monte Plata.
+2017-04-01 12:29:53 18.435 -68.750 112.6   19.9  191  1.1  ---  3.0  --- 7.9Km al Oeste de San Rafael del Yuma, La Altagracia.
+2017-04-01 19:01:11 18.539 -70.341  31.1    8.2  147  0.5  ---  2.8  --- 5.0Km al ONO de Los Cacaos, San Cristobal.
+2017-04-02 07:44:39 18.130 -68.114 107.7   12.3  212  0.5  2.6  3.1  --- 59.2Km al Este de Punta Cana, Canal de la Mona.
+2017-04-02 21:52:56 18.575 -71.369  20.5   12.6   82  0.9  2.8  3.2  --- 8.4Km al NNO de Galvan, Bahoruco.
+2017-04-03 02:45:10 18.764 -69.347  89.4    9.1   68  1.0  4.8  4.5  4.8 9.6Km al Oeste de Hato Mayor, Hato Mayor.
+2017-04-03 06:48:20 18.349 -69.540  28.3  218.8  208  0.9  1.7  3.1  --- 11.9Km al SO de Guayacanes, Mar Caribe.
+2017-04-03 09:08:41 18.711 -68.710 112.0    9.7  139  0.7  3.0  3.7  --- 11.2Km al Norte de Higuey, La Altagracia.
+2017-04-03 10:07:01 18.741 -69.572 114.8   21.6  167  0.9  2.2  3.4  --- 7.1Km al Este de Bayaguana, Monte Plata.
+2017-04-03 12:23:40 19.108 -69.855   7.5   17.4  127  0.2  2.2  3.0  --- 9.0Km al Este de Arenoso, Duarte.
+2017-04-03 21:18:58 18.764 -69.146 129.8   11.6  155  0.7  2.6  3.4  --- 11.3Km al Oeste de El Seibo, El Seibo.
+2017-04-04 04:05:33 18.290 -68.843 125.5   16.6  179  0.6  2.4  3.5  --- 18.8Km al Este de Isla Catalina, Mar Caribe.
+2017-04-04 05:36:59 18.675 -69.657 107.9   17.7  132  0.8  2.3  3.2  --- 9.0Km al Este de Bayaguana, Monte Plata.
+2017-04-05 08:38:58 17.974 -68.456  31.1   14.4  242  0.3  2.2  3.2  --- 33.8Km al Este de Mano Juan Isla Saona, Mar Caribe.
+2017-04-05 18:07:36 18.881 -70.161  15.0  673.6  165  0.8  1.7  3.0  --- 19.4Km al Este de Cotui, Sanchez Ramirez.
+2017-04-05 19:12:53 20.022 -70.688  11.7   21.0  193  0.5  2.8  3.2  --- 26.2Km al Norte de Puerto Plata, Oceano Atlantico.
+2017-04-05 21:28:24 18.520 -70.418 117.6   12.5  159  0.6  2.3  3.2  --- 9.8Km al Este de Ocoa, San Jose de Ocoa.
+2017-04-05 22:39:39 18.720 -69.660  98.7   12.8  204  0.3  1.8  3.1  --- 4.5Km al SSO de Bayaguana, Monte Plata.
+2017-04-06 04:11:34 19.601 -69.034  12.3  388.4  247  0.8  2.1  3.2  2.1 39.3Km al NNE de Las Galeras, Oceano Atlantico.
+2017-04-06 08:17:15 17.823 -68.101  31.0   68.5  223  0.7  2.9  3.6  --- 74.8Km al Este de Mano Juan Isla Saona, Mar Caribe.
+2017-04-07 07:03:27 18.785 -69.468 122.8   12.2  161  0.5  2.3  3.4  --- 18.1Km al Norte de Los Llanos, San Pedro de Macoris.
+2017-04-07 22:35:59 18.382 -69.002  79.3   16.2  272  0.4  1.9  2.9  --- 3.1Km al NNE de Isla Catalina, Mar Caribe.
+2017-04-08 13:53:17 19.681 -71.176  55.6   20.2  110  0.7  ---  2.8  --- 23.1Km al Este de Guayubin, Montecristi.
+2017-04-09 12:03:26 18.420 -68.738 112.2    9.9  168  0.8  ---  3.4  --- 6.7Km al Oeste de San Rafael del Yuma, La Altagracia.
+2017-04-09 18:58:14 19.251 -69.725  72.8   20.9  229  0.6  2.4  3.5  --- 12.0Km al Oeste de Sanchez, Samana.
+2017-04-09 19:14:23 20.064 -70.368  23.0   35.3  157  1.0  3.0  3.7  --- 35.1Km al Norte de Cabarete, Oceano Atlantico.
+2017-04-10 07:28:56 19.110 -69.856  79.8   19.4  218  0.6  1.8  3.3  --- 8.8Km al Este de Arenoso, Duarte.
+2017-04-10 10:34:29 19.102 -69.871 140.4    5.8  217  0.2  2.1  3.5  --- 9.7Km al Este de Arenoso, Duarte.
+2017-04-10 13:56:27 18.954 -67.621  21.9   14.6  203  0.5  2.5  3.4  --- 150.2Km al Este de Miches, Oceano Atlantico.
+2017-04-10 14:10:55 18.551 -69.386  82.6   26.6  166  0.7  2.2  3.1  --- 2.1Km al Este de Quisqueya, San Pedro de Macoris.
+2017-04-11 00:29:57 19.409 -67.105  23.9  713.2  264  0.4  2.7  3.7  --- 209.6Km al ENE de Miches, Oceano Atlantico.
+2017-04-11 08:24:52 18.298 -70.391  31.1   23.7  200  0.8  2.1  3.4  --- 6.3Km al ONO de Bani, Peravia.
+2017-04-11 15:44:16 19.211 -68.549  12.2  953.6  250  0.4  2.3  3.3  --- 58.4Km al ENE de Miches, Oceano Atlantico.
+2017-04-11 17:16:03 18.518 -70.067   0.1   98.0  226  0.4  1.6  3.0  --- 3.9Km al Oeste de Los Alcarrizos, Santo Domingo.
+2017-04-12 04:20:01 19.815 -69.978  12.1   14.2  257  0.7  2.0  3.0  --- 20.9Km al NNO de Cabrera, Oceano Atlantico.
+2017-04-12 06:15:19 19.115 -69.265  29.2   15.3  118  0.8  2.3  3.1  --- 12.6Km al Este de Samana, Bahia de Samana.
+2017-04-12 10:20:45 18.663 -68.811 140.9   15.6  145  0.6  2.2  3.1  --- 11.5Km al ONO de Higuey, La Altagracia.
+2017-04-12 13:18:16 19.252 -69.816  31.0    4.3  125  0.1  2.0  2.9  --- 10.4Km al Este de El Factor, Maria Trinidad Sanchez.
+2017-04-13 01:58:39 18.384 -70.432  20.1   21.3  172  0.6  1.8  3.3  2.7 15.5Km al NO de Bani, Peravia.
+2017-04-13 02:03:57 19.491 -67.789  12.1   69.4  225  0.5  2.5  3.8  2.8 143.9Km al ENE de Miches, Oceano Atlantico.
+2017-04-13 07:41:17 17.757 -68.425  61.8   37.4  331  0.3  1.9  3.3  2.3 52.5Km al Este de Mano Juan Isla Saona, Mar Caribe.
+2017-04-13 10:51:24 19.847 -71.555  31.0   10.6  150  0.4  2.2  3.4  2.9 9.5Km al Este de San Fernando de Montecristi, Montecristi.
+2017-04-13 17:10:02 18.146 -70.162  15.0  113.8  220  0.7  1.7  3.0  --- 13.0Km al Este de Sabana Grande de Palenque, Mar Caribe.
+2017-04-14 12:47:30 19.047 -69.522  31.0   15.7  155  0.2  1.7  2.9  --- 14.2Km al Oeste de Sabana de la Mar, Hato Mayor.
+2017-04-14 18:22:50 17.918 -68.709  23.0   69.9  190  0.6  2.6  3.4  --- 23.6Km al Este de Mano Juan Isla Saona, Mar Caribe.
+2017-04-14 22:44:37 18.654 -67.706 179.1   17.9  183  1.0  2.9  3.7  --- 73.5Km al Este de Punta Cana, Canal de la Mona.
+2017-04-15 03:35:38 19.131 -68.009  22.6  146.1  201  0.7  ---  3.0  --- 110.5Km al Este de Miches, Oceano Atlantico.
+2017-04-17 04:13:53 19.923 -70.459  22.9   13.0  265  0.4  2.4  3.5  --- 19.7Km al NNO de Cabarete, Oceano Atlantico.
+2017-04-17 18:56:44 19.166 -70.524  59.8   37.5  201  0.3  1.9  2.8  --- 6.1Km al Este de Concepcion de La Vega, La Vega.
+2017-04-17 22:46:44 18.313 -71.320  10.1   14.5  123  0.5  1.6  3.1  --- 3.5Km al NO de Cristobal, Independencia.
+2017-04-18 04:29:29 19.060 -70.668  12.0   20.9  101  0.8  2.3  3.4  2.6 7.1Km al SSO de Jarabacoa, La Vega.
+2017-04-18 04:48:04 19.056 -70.706  22.9   12.1   73  0.8  2.5  3.3  3.4 9.9Km al SO de Jarabacoa, La Vega.
+2017-04-18 15:34:44 18.083 -69.353  22.9   99.7  246  0.5  2.4  3.5  --- 39.3Km al Este de Guayacanes, Mar Caribe.
+2017-04-18 15:34:43 18.113 -69.397  11.5   60.7  229  0.3  2.2  3.4  2.4 35.0Km al Este de Guayacanes, Mar Caribe.
+2017-04-18 16:47:58 19.046 -69.757  11.9   29.5   82  0.6  2.7  3.3  --- 11.9Km al NNE de Sabana Grande de Boya, Monte Plata.
+2017-04-18 17:10:20 19.387 -69.815  67.2   14.1  122  0.6  2.4  2.7  --- 4.1Km al ENE de Nagua, Oceano Atlantico.
+2017-04-18 21:47:29 19.021 -69.467 109.6    8.5  150  0.2  2.1  3.2  --- 9.3Km al OSO de Sabana de la Mar, Hato Mayor.
+2017-04-19 07:56:20 18.655 -69.236  83.2   17.7  173  0.7  2.3  3.3  --- 12.6Km al NNE de Consuelo, San Pedro de Macoris.
+2017-04-19 23:43:27 17.653 -70.525  15.0    0.0  310  0.0  2.2  2.8  --- 63.0Km al Este de La Calderas, Mar Caribe.
+2017-04-20 00:35:51 19.002 -68.123  10.6  110.2  207  0.8  2.3  3.6  --- 97.4Km al Este de Miches, Oceano Atlantico.
+2017-04-20 02:18:05 20.080 -70.829  18.6   16.5  125  1.0  3.4  3.8  3.4 25.1Km al NE de Luperon, Oceano Atlantico.
+2017-04-20 02:46:10 20.133 -70.867  12.1   34.0  261  0.8  2.6  3.3  --- 28.6Km al NNE de Luperon, Oceano Atlantico.
+2017-04-20 04:30:36 20.123 -70.843  12.2   27.1  307  0.6  2.2  3.1  --- 28.6Km al NNE de Luperon, Oceano Atlantico.
+2017-04-20 09:14:34 20.051 -70.914  12.3   16.4  300  0.8  2.3  3.2  --- 18.4Km al NNE de Luperon, Oceano Atlantico.
+2017-04-20 14:22:32 18.955 -70.633  90.7    8.5   53  0.9  3.3  3.7  3.8 13.1Km al ENE de Constanza, La Vega.
+2017-04-20 16:10:38 19.141 -67.755  31.0   16.6  266  0.2  2.6  3.3  --- 137.1Km al Este de Miches, Oceano Atlantico.
+2017-04-20 17:08:36 20.037 -70.708  12.0   17.8  148  0.6  2.3  2.9  --- 27.9Km al Norte de Puerto Plata, Oceano Atlantico.
+2017-04-20 23:24:49 18.309 -69.351  47.4   12.8  168  0.9  4.2  3.8  --- 16.6Km al SSO de San Pedro de Macoris, Mar Caribe.
+2017-04-21 08:06:30 20.171 -70.744  15.0   33.9  320  0.6  2.4  3.4  --- 38.5Km al NE de Luperon, Oceano Atlantico.
+2017-04-21 08:08:23 19.492 -68.717  19.7   57.6  248  0.3  1.7  3.2  --- 55.8Km al ENE de Las Galeras, Oceano Atlantico.
+2017-04-22 15:16:03 20.034 -70.700  12.1   17.5  139  0.6  ---  3.1  --- 27.5Km al Norte de Puerto Plata, Oceano Atlantico.
+2017-04-23 02:54:31 18.085 -67.974 186.4    9.8  177  0.8  ---  4.0  --- 71.8Km al Este de Punta Cana, Canal de la Mona.
+2017-04-23 12:54:25 19.139 -68.731  14.8  328.5  223  0.9  ---  3.0  --- 37.7Km al ENE de Miches, Oceano Atlantico.
+2017-04-24 01:52:23 18.817 -71.055  12.2   45.3   70  0.9  3.2  3.6  --- 8.4Km al ONO de Bohechio, San Juan de la Maguana.
+2017-04-24 09:35:06 18.038 -71.285  17.1   11.9  308  0.4  2.2  3.0  --- 5.9Km al Este de Polo, Barahona.
+2017-04-24 12:13:27 19.351 -68.841  31.1   30.5  245  0.9  2.3  3.4  --- 38.6Km al Este de Las Galeras, Oceano Atlantico.
+2017-04-25 11:58:57 18.469 -70.435  31.1    8.5  181  0.4  2.2  3.1  --- 11.4Km al Este de Ocoa, San Jose de Ocoa.
+2017-04-25 12:07:31 18.184 -69.028  31.1   78.6  227  0.8  1.9  3.1  --- 19.1Km al Este de Isla Catalina, Mar Caribe.
+2017-04-25 13:04:02 18.522 -68.776 137.9    8.9  154  0.7  3.2  3.7  3.4 11.7Km al SO de Higuey, La Altagracia.
+2017-04-25 13:07:50 18.598 -69.084 143.1   14.7  184  0.4  2.3  3.1  --- 19.1Km al Este de El Seibo, El Seibo.
+2017-04-25 16:59:15 18.633 -70.113  10.1   11.0  209  0.0  1.6  3.0  --- 7.7Km al NNO de Pedro Brand, Santo Domingo.
+2017-04-25 21:18:40 18.136 -68.816 135.4   19.5  177  0.8  2.9  3.5  --- 9.0Km al Oeste de Mano Juan Isla Saona, Mar Caribe.
+2017-04-26 14:31:29 17.900 -68.428  82.2   16.9  257  0.6  2.5  3.2  --- 40.9Km al Este de Mano Juan Isla Saona, Mar Caribe.
+2017-04-26 23:37:40 18.446 -69.052 129.7   17.1  188  0.8  2.3  3.4  --- 8.2Km al ONO de La Romana, La Romana.
+2017-04-27 01:46:02 18.994 -68.680  12.5  290.3  168  0.8  3.0  3.5  2.9 38.8Km al Este de Miches, Oceano Atlantico.
+2017-04-28 05:43:13 18.355 -69.122 103.1   16.9  194  0.8  2.8  3.7  2.9 12.1Km al Oeste de Isla Catalina, Mar Caribe.
+2017-04-28 09:21:10 19.309 -69.219  12.1   51.2  221  0.2  1.6  2.7  --- 3.3Km al NO de Las Galeras, Oceano Atlantico.
+2017-04-28 10:09:30 19.192 -69.370 141.7   13.7  138  0.6  2.2  3.1  --- 4.1Km al OSO de Samana, Bahia de Samana.
+2017-04-28 11:50:52 19.281 -68.982  23.0    5.2  198  0.3  2.0  3.3  2.8 23.1Km al Este de Las Galeras, Oceano Atlantico.
+2017-04-28 18:47:52 18.372 -69.037  97.2   21.8  206  0.8  2.5  3.2  --- 3.7Km al ONO de Isla Catalina, Mar Caribe.
+2017-04-30 04:19:17 20.331 -70.469  21.7   64.3  319  0.7  2.4  3.1  --- 64.7Km al NNE de Puerto Plata, Oceano Atlantico.
+2017-05-01 10:31:35 19.292 -67.087  24.3  522.5  240  0.8  2.7  3.7  --- 208.9Km al Este de Miches, Oceano Atlantico.
+2017-05-01 15:13:42 18.735 -69.437 106.3    8.0  218  0.1  2.0  2.9  --- 13.7Km al NNE de Los Llanos, San Pedro de Macoris.
+2017-05-01 18:37:09 18.246 -72.053  23.0   12.8  224  0.4  2.6  3.2  --- 34.9Km al SO de Jimani, Region Haiti.
+2017-05-01 19:00:56 18.562 -69.669 121.2   11.7  139  0.7  2.5  3.2  --- 3.6Km al Este de San Antonio de Guerra, Santo Domingo.
+2017-05-02 00:15:58 18.795 -67.654  22.1   91.1  186  1.0  2.7  3.7  --- 81.9Km al ENE de Punta Cana, Canal de la Mona.
+2017-05-02 13:40:25 20.101 -70.359  12.1   85.9  159  0.8  2.8  3.6  --- 39.3Km al Norte de Cabarete, Oceano Atlantico.
+2017-05-02 13:43:45 20.110 -70.295  11.8   91.3  163  0.8  2.5  3.0  --- 41.8Km al NNE de Cabarete, Oceano Atlantico.
+2017-05-02 14:22:49 20.060 -70.392  21.6  543.7  156  0.9  2.5  3.2  --- 34.4Km al Norte de Cabarete, Oceano Atlantico.
+2017-05-02 23:32:58 18.847 -69.456 104.4   16.0  159  0.6  2.1  3.1  --- 21.7Km al ENE de Bayaguana, Monte Plata.
+2017-05-03 00:58:30 17.833 -68.809  31.2  999.9  203  0.8  2.4  3.5  --- 33.9Km al Este de Mano Juan Isla Saona, Mar Caribe.
+2017-05-03 04:15:06 18.555 -69.371  12.2  999.9  190  0.0  1.6  3.0  --- 3.6Km al Este de Quisqueya, San Pedro de Macoris.
+2017-05-03 04:39:37 18.614 -69.436  88.9   24.4  188  0.7  2.1  3.2  2.6 6.2Km al Este de Los Llanos, San Pedro de Macoris.
+2017-05-03 10:48:26 18.085 -71.236  20.0    2.0  266  0.1  1.8  2.6  --- 4.6Km al Este de Polo, Barahona.
+2017-05-04 05:53:55 18.084 -71.180  23.0    8.5  267  0.5  1.8  3.1  --- 8.0Km al ONO de La Cienaga, Barahona.
+2017-05-04 08:27:44 20.325 -70.845  23.0   24.0  288  0.8  2.7  3.4  --- 49.7Km al NNE de Luperon, Oceano Atlantico.
+2017-05-04 08:27:45 20.269 -70.757  23.0   26.1  143  1.0  2.6  3.5  --- 47.1Km al NNE de Luperon, Oceano Atlantico.
+2017-05-04 20:50:59 20.110 -70.474  20.0   25.0  147  0.9  2.6  3.5  --- 40.4Km al Norte de Cabarete, Oceano Atlantico.
+2017-05-04 22:57:48 19.807 -70.952  18.0   10.6   99  0.9  2.8  3.2  --- 9.5Km al Este de Luperon, Puerto Plata.
+2017-05-05 01:06:01 19.549 -70.428  27.9   10.8   94  0.8  3.8  3.7  --- 9.8Km al Este de Jamao al Norte, Espaillat.
+2017-05-05 01:10:48 19.497 -70.471   0.0  999.9  121  6.1  2.5  3.4  --- 12.9Km al NNE de Moca, Espaillat.
+2017-05-05 03:27:54 19.507 -70.403  20.7   19.9  154  0.8  2.4  3.2  --- 14.6Km al Norte de Salcedo, Hermanas Mirabal.
+2017-05-05 03:54:11 19.480 -70.424  31.0   11.7  153  0.7  2.4  3.3  --- 11.5Km al Norte de Salcedo, Hermanas Mirabal.
+2017-05-07 15:43:35 18.657 -71.707  23.4   24.8  106  1.5  ---  3.3  --- 9.6Km al NNE de La Descubierta, Independencia.
